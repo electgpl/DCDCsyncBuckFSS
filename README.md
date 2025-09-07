@@ -5,6 +5,8 @@ It is mechanically and electrically compatible with the popular **LM2596-based l
 However, this design provides **significant improvements** in terms of efficiency, thermal performance, EMI, and reliability.
 
 ---
+![Module Preview](https://raw.githubusercontent.com/electgpl/DCDCsyncBuckFSS/refs/heads/main/Resources/541955125_18524312182045902_4678174790925630173_n.jpg)
+---
 
 ## 🔑 Key Features
 
