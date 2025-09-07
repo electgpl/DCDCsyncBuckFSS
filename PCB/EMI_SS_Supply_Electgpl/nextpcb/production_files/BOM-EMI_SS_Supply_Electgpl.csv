@@ -1,0 +1,10 @@
+MPN,Qty,Designator,value,manufacturer,Category,SKU,Customer Supply,Customer Remark
+,2,"C1,C2",10µF,,,
+,6,"C5,C7,C6,C4,C8,C3",10nF,,,
+,4,"C12,C11,C10,C9",22µF,,,
+,1,L1,3.6µH,,,
+,1,L2,10µH,,,
+,4,"R4,R3,R1,R2",100Ω,,,
+,1,RV1,47kΩ,,,
+,5,"TP5,TP4,TP3,TP1,TP2",TestPoint,,,
+,1,U1,AP64501,,,
