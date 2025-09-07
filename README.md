@@ -11,7 +11,7 @@ However, this design provides **significant improvements** in terms of efficienc
 - **Synchronous buck regulator (AP64501)**
   - Higher efficiency compared to asynchronous regulators.
   - Reduced heat generation under load.
-- **Fixed Switching Frequency (FSS)**
+- **Fixed Spread Spectrum (FSS)**
   - Lower EMI and more predictable spectral content.
 - **Soft-Start (SS)**
   - Controlled inrush current during power-up.
